@@ -1,0 +1,12 @@
+{
+    "Python" :{
+        "Easy": [ " What is the list in Python?"],
+        "Medium" : [ "What is decorators in Python?"],
+        "Hard" : [ "Explain metaclasses in Python?" ]
+    } ,
+    "DSA" :{
+        "Easy": [ "What is a linked list?" ],
+        "Medium" : [ "Explain Dijkstra's algorithm." ],
+        "Hard" : [ "What are Fibonacci heaps?" ]
+    }}
+
